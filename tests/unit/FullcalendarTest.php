@@ -1,8 +1,8 @@
 <?php
 
-namespace yii2fullcalendar\tests\unit;
+namespace yii2fullcalendaryearview\tests\unit;
 
-use \yii2fullcalendar\yii2fullcalendar;
+use \yii2fullcalendaryearview\yii2fullcalendar;
 
 /**
  * This is MasonryTest unit test.

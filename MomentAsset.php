@@ -1,6 +1,6 @@
 <?php
 
-namespace yii2fullcalendar;
+namespace yii2fullcalendaryearview;
 
 use yii\web\AssetBundle;
 
