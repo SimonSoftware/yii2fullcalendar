@@ -27,6 +27,6 @@
 		"codeception/codeception": "*"
 	},
 	"autoload": {
-		"psr-4": { "yii2fullcalendaryearview/": "" }
+		"psr-4": { "yii2fullcalendaryearview\\": "" }
 	}
 }
