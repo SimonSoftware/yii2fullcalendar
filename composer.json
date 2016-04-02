@@ -21,7 +21,7 @@
 		"php": ">=5.4.0",
 		"yiisoft/yii2" : "*",
 		"yiisoft/yii2-jui": "*",
-		"bower-asset/fullcalendar-yearview" : "dev-2.2.7-yearview"
+		"bower-asset/fullcalendar-yearview" : "2.2.7-yearview-dev"
 	},
 	"require-dev": {
 		"codeception/codeception": "*"
