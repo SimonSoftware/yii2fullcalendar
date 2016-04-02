@@ -39,7 +39,7 @@ class yii2fullcalendar extends elWidget
      */
     public $clientOptions = [
         'weekends' => true,
-        'default' => 'month',
+        'default' => 'year',
         'editable' => false,
     ];
 
