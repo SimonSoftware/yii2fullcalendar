@@ -1,5 +1,5 @@
 {
-	"name": "philippfrenzel/yii2fullcalendar",
+	"name": "simonsoftware/yii2fullcalendar-yearview",
 	"description": "Yii2 fullcalendar Widgets",
 	"keywords": ["yii2", "fullcalendar"],
 	"homepage": "http://www.frenzel.net/",
@@ -27,6 +27,6 @@
 		"codeception/codeception": "*"
 	},
 	"autoload": {
-		"psr-4": { "yii2fullcalendar\\": "" }
+		"psr-4": { "yii2fullcalendar-yearview\\": "" }
 	}
 }
