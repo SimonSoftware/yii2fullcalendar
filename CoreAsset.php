@@ -16,7 +16,7 @@ class CoreAsset extends AssetBundle
      * [$sourcePath description]
      * @var string
      */
-    public $sourcePath = 'assets';
+    public $sourcePath = '@yii2fullcalendaryearview/assets';
 
     /**
      * the language the calender will be displayed in
